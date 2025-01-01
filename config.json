@@ -35,28 +35,28 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61567301076941",
-    "100086680386976"
+    "100034491281335",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61567301076941"
+      "100034491281335"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "☆𝐀𝐁𝐇𝐑𝐀𝐍𝐈𝐋☆ BOT",
+  "nickNameBot": "Ghorar Anda",
   "prefix": "/",
   "BaYjidnapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "BaYjid🤡",
-  "facebook2": "https://www.facebook.com/BAYJID.404",
-  "facebook": "https://www.facebook.com/BAYJID.404",
-  "email": "mohammadbayjid204@yahoo.com",
+  "authorName": "Alif",
+  "facebook2": "https://www.facebook.com/freelancer.alif.09",
+  "facebook": "https://www.facebook.com/freelancer.alif.09",
+  "email": "mynameismdalif@gmail.com",
   "replit": "https://replit.com/@biju",
-  "github": "https://github.com/BAYJID-404-BOYZ",
+  "github": "https://github.com/DEVELOPER-ALIF",
   "insta": "no",
   "age": "17+",
   "TG": "",
