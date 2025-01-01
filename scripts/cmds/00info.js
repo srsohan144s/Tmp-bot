@@ -15,17 +15,17 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ᑘᒪᒪᗩSᕼ ッ ";
-		const ownAge = "『 21 』";
-		const messenger = "https://m.me/61567301076941";
-		const authorFB = "https://www.facebook.com/ayat.chowdhury.936741";
-		const authorNumber = "এইটা পার্সোনাল";
+		const authorName = " ̷A̷̷L̷̷I̷̷F̷ ";
+		const ownAge = "『 ,17 』";
+		const messenger = "";
+		const authorFB = "https://www.facebook.com/freelancer.alif.09";
+		const authorNumber = "dimu na 🥴";
 		const Status = "complicated";
 		const urls = [
-"https://i.imgur.com/zLH9Akq.jpeg",
-"https://i.imgur.com/yFGI6sF.jpeg",
-"https://i.imgur.com/YIXBEo7.jpeg",
-"https://i.imgur.com/Ny5fQOe.jpeg"
+"https://imgur.com/a/Bxc2Qnf",
+"https://imgur.com/a/Bxc2Qnf",
+"https://imgur.com/a/Bxc2Qnf",
+"https://imgur.com/a/Bxc2Qnf"
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
@@ -51,11 +51,11 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 :⩸__${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
-    𝑻𝒈: https://t.me/কোনটার লিংক দিমু , ৯ টা আইড়ি
+    𝑻𝒈: https://t.me/bangladevpro
     𝑰𝒏𝒔𝒕𝒂: দিমু না 🥱 
-    𝑪𝒂𝒑𝑪𝒖𝒕: কোনো আইড়ি নাই , এমনি এড়িট করার জন্য ব্যবহার করি।
+    𝑪𝒂𝒑𝑪𝒖𝒕: কোনো আইডি নাই ,
     𝑻𝒊𝒌𝑻𝒐𝒌: আমি প্রতিবন্ধী না 🙂 
-    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: নিজের কোনো চ্যানেল নাই ☺️, এমনিতেই কারো YouTube premium লাগলে ইনবক্স করিও?
+    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: ইউজ করি না 🤕
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
