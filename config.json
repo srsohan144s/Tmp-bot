@@ -35,17 +35,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100034491281335",
+    "100619291199015",
     ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100034491281335"
+      "100619291199015"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ghorar Anda",
+  "nickNameBot": "Sr Bot",
   "prefix": "/",
   "BaYjidnapi": "",
   "api": "",
